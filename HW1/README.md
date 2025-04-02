@@ -1,3 +1,6 @@
-In this folder an overall code for K-NN algortihm as knn.py and a notebook code to explain how algorithm works as analysis.ipynb.
+# Wine Classification using K-Nearest Neighbors (K-NN)
 
-To run the code for different k values, simply change the k value in the code and run.
+This repository contains code for classifying different types of wine using the **K-Nearest Neighbors (K-NN)** algorithm.
+
+
+
