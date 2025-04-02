@@ -1,1 +1,1 @@
-This repository contains Homework code for the lecture ELE 489
+This repository contains Homework codes for the lecture ELE 489
